@@ -1,0 +1,31 @@
+ul#right_text li{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0;
+}
+ul#right_text li{
+	display: inline;
+	width:10%;
+}
+ul#right_text li a{
+	text-decoration: none;
+	padding: 5px;
+}
+
+.middle_card{
+	padding: 10px;
+}
+
+html, body{ height:100%; margin:0; }
+header{ height:50px; background:lightcyan; }
+footer{ height:50px; background:PapayaWhip; }
+
+/* Trick */
+body{ 
+  display:flex; 
+  flex-direction:column; 
+}
+
+footer{
+  margin-top:auto; 
+}

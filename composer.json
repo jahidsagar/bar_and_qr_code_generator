@@ -1,0 +1,13 @@
+{
+    "name": "asus/code_generator",
+    "authors": [
+        {
+            "name": "bijoy",
+            "email": "jahidsagar@gmail.com"
+        }
+    ],
+    "require": {
+        "picqer/php-barcode-generator": "^0.3.0",
+        "endroid/qr-code": "^3.6"
+    }
+}
